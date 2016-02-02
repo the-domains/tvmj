@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2016-02-02T18:08:46.673Z'
-dateModified: '2016-02-02T18:08:29.234Z'
+description: 'Heading out with a very small crew and very limited resources, I begin production on my first film.'
+datePublished: '2016-02-02T18:38:22.355Z'
+dateModified: '2016-02-02T18:38:17.304Z'
 author: []
 title: ' Shooting a no-budget feature film'
 sourcePath: _posts/2016-02-02-framing-the-first-shot-of-the-feature-its-a-long-road-ahea.md
