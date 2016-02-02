@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: 'Heading out with a very small crew and very limited resources, I begin production on my first film.'
-datePublished: '2016-02-02T18:38:22.488Z'
+datePublished: '2016-02-02T18:38:22.507Z'
 dateModified: '2016-02-02T18:38:17.304Z'
 author: []
 title: ' Shooting a no-budget feature film'
