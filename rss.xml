@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tvmj]]></title>
+        <description><![CDATA[Tvmj]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Feb 2016 17:32:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Koji Color's Brand New LUTs Offer True 35mm Film Color (Save 10% with This NFS Code)]]></title>
+            <description><![CDATA[<article><h1>Koji Color's Brand New LUTs Offer True 35mm Film Color (Save 10% with This NFS Code)</h1><p>There are plenty of LUTs out there that aim at giving your films a distinct, beautiful look, but if you're looking for some that accurately emulate the look of 35mm film, you will definitely want to check out Koji Color's brand new suite.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e70623ea6bd6002dd7f3dd8ac1fc714cfd397f88.png"></article>]]></description>
+            <link>http://nofilmschool.com/2014/10/koji-colors-brand-new-luts-offer-true-35mm-film-color-save-10-nfs-code</link>
+            <guid isPermaLink="false">c0555ac5-f350-4cbc-a941-15d1ed62a008</guid>
+            <pubDate>Tue, 02 Feb 2016 17:30:48 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
