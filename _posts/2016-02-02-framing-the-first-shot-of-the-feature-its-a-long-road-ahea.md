@@ -1,15 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T17:55:05.383Z'
-dateModified: '2016-02-02T17:55:01.927Z'
+datePublished: '2016-02-02T18:08:46.534Z'
+dateModified: '2016-02-02T18:08:29.234Z'
 author: []
-title: ' '
+title: ' Shooting a no-budget feature film'
 sourcePath: _posts/2016-02-02-framing-the-first-shot-of-the-feature-its-a-long-road-ahea.md
 published: true
 authors: []
@@ -23,22 +23,20 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-Shooting a no-budget feature film.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fda9c5ecd9a152f91e90e4178f65a5914334759.png)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/477ae62e-9a3d-4b5f-bf8a-21292a586022.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/972e3d0399af534c4911a38d429b7f31c35d5c4d.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4a3793a43dd8874c7753cb404173485530d6cce8.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aefb76e034b5da431125eda0e37ef8437263a42.jpg)
 
 Grip, Camera AC, effects make-up... Everyone has several jobs on a no-budget set.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7782f9e0-269c-4088-98f7-96dd7604deb5.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/56b405ae03b2fb272273c4d971cce54508dd588a.jpg)
 
 Sound is the hardest thing to get.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8b1e1df3-7ce4-477e-a25b-d8c70c7d48ac.JPG)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/15eeaece77dc85cc0914604464329c89c205c434.jpg)
 
 Harrison and Kelsey
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b1f0db93-6080-416b-9491-785d1274cfac.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/45f3b09a-637d-4cbb-84cf-3f448e107093.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/87132c5c-cbb0-4b1e-a386-7d3a67a30235.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5494609-8dfc-40f5-b251-7e8a300dc4c1.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d54594f0-fade-4d50-8753-869a0c049a28.JPG)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/405d2605-59dd-43ca-a5bc-47fddf497819.JPG)
-
-#
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/72acc6124d4ae6e0d5f1fe3a83dd029dbc9047b6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/927491f52687d9d9ea0d864a3eb306d6eab67fb8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/abc03f0a67daca085887aeb112156d03f838e11e.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/980c23a8edced16f4faeb9780f3ad5e131b917f5.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/10461aa6fb3695d7080f8f49a12ced59cdc21429.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/810742f7e1f847203c5b720be72ee3191ea5de24.jpg)
