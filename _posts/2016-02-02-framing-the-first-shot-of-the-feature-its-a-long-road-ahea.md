@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-02T18:08:46.534Z'
+datePublished: '2016-02-02T18:08:46.725Z'
 dateModified: '2016-02-02T18:08:29.234Z'
 author: []
 title: ' Shooting a no-budget feature film'
