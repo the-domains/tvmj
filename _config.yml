@@ -1,28 +1,40 @@
-name: Tvmj
 favicon: null
-layout_spectrum: 0.19203
-typography_spectrum: 0.85073
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Tvmj
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.625
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#ffffff'
     - '#212322'
     - '#5a5c46'
     - '#928050'
     - '#b4a181'
-  brandStrength: 0.5
   lightness: 0.1875
-  saturation: 0.625
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.85073
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 1
+analytics:
+  twitter: null
+  google: null
+  facebook: null
