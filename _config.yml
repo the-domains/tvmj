@@ -1,8 +1,7 @@
-layout_spectrum: 1
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Tvmj
+favicon: null
+layout_spectrum: 0.50518
+typography_spectrum: 0
 collections:
   - index:
       path: /
@@ -15,25 +14,26 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6247892
-  brandStrength: 1
-  rhythmicContrast: 1
   brandColors:
     - '#0B0A0C'
     - '#6D655C'
     - '#4B4139'
     - '#BEBCBC'
+  brandStrength: 1
   lightness: 1
-typography_spectrum: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Tvmj
+  saturation: 0.6247892
+  rhythmicContrast: 1
+purpose: []
